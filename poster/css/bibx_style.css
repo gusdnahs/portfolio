@@ -7,6 +7,10 @@ div img{
   margin:0 auto;
   display: block;
 }
+h1{
+  width: 600px;
+  margin: 30px auto;
+}
 .fixed{
   position: fixed;
   right:100px;
