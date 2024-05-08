@@ -6,6 +6,9 @@ background-color:#CBCBCB;
 #benner_img{
   overflow: hidden;
 }
+h1{
+  margin: 30px 0;
+}
 div img{
   width: 100%;
   display: block;
