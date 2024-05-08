@@ -3,6 +3,14 @@
 body{
 background-color:#CBCBCB;
 }
+h1{
+  width: 1903px;
+  margin: 30px auto;
+}
+#benner_img{
+  width: 1903px;
+  margin: 0 auto;
+}
 div img{
   margin:0 auto;
   display: block;
